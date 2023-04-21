@@ -14,6 +14,7 @@ public class SumNumber {
 		int k=n%10;
 		n=n/10;
 		sum=k+sum;
+		//sum=(k*k)+sum;
 		}
 		
 	System.out.println("sum of no is "+ sum);

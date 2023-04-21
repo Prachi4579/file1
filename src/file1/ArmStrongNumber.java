@@ -22,7 +22,8 @@ if(sum==m)
 {System.out.println("It is an Armstrong no");
 }
 else
-{System.out.println("Not an armstrong no");}
+{System.out.println("Not an armstrong no");
+}
 }
 
 	
